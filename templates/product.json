@@ -365,6 +365,65 @@
       "name": "Benefits table",
       "settings": {}
     },
+    "faq_nH7nxg": {
+      "type": "faq",
+      "blocks": {
+        "question_kCpxd6": {
+          "type": "question",
+          "settings": {
+            "title": "How do I use the serum?",
+            "text": "<p>Apply a few drops to clean skin and gently massage until absorbed.</p><p></p>"
+          }
+        },
+        "question_43R7MW": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use it every day?",
+            "text": "<p>Yes, it is suitable for daily use, morning and night.</p><p></p>"
+          }
+        },
+        "question_WDimVc": {
+          "type": "question",
+          "settings": {
+            "title": "Is it suitable for all skin types?",
+            "text": "<p><strong>Is it suitable for all skin types?</strong></p>"
+          }
+        },
+        "question_bmRtnY": {
+          "type": "question",
+          "settings": {
+            "title": "Does it help with dark spots?",
+            "text": "<p>Yes, it helps improve uneven skin tone and reduce the appearance of dark spots.</p><p></p>"
+          }
+        },
+        "question_PeYVUX": {
+          "type": "question",
+          "settings": {
+            "title": "Is it greasy or heavy on the skin?",
+            "text": "<p>No, it has a lightweight and non-greasy texture.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_kCpxd6",
+        "question_43R7MW",
+        "question_WDimVc",
+        "question_bmRtnY",
+        "question_PeYVUX"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1771945068374140eb": {
       "type": "apps",
       "blocks": {
@@ -454,6 +513,7 @@
     "scrolling_promotion_UTtkFT",
     "image_with_text_9wjtdy",
     "blocks_DQF7Eh",
+    "faq_nH7nxg",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
     "1771850465e38b72c3"
