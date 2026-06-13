@@ -54,7 +54,7 @@
         "custom_liquid_H9DXEK": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Instant Glow Effect</span> – Brings back a fresh, radiant glow from the first uses.<br><br>\n\n<span style=\"font-weight: bold;\">🎯 Targets Dark Spots & Uneven Tone</span> – Helps fade pigmentation and smooth out skin tone for a clearer look.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Deep Hydration</span> – Keeps your skin soft, plump, and healthy without dryness or tightness.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Lightweight & Non-Greasy</span> – Absorbs quickly and works perfectly under sunscreen or makeup.<br><br>\n\n<span style=\"font-weight: bold;\">⏳ Visible Results</span> – With consistent use, skin looks brighter, smoother, and more refined.\n\n</div>"
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Instant Glass-Skin Glow</span> – Gives your skin a fresh, radiant, dewy look in just one swipe.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Collagen-Infused Care</span> – Helps the skin appear smoother, plumper, and more youthful-looking.<br><br>\n\n<span style=\"font-weight: bold;\">💧 On-The-Go Hydration</span> – Moisturizes dry areas of the face and neck without feeling heavy or sticky.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Smooth Dewy Finish</span> – Melts into the skin easily, leaving a healthy glow under or over makeup.<br><br>\n\n<span style=\"font-weight: bold;\">🎯 Perfect Daily Touch-Up</span> – Use anytime your skin needs a quick boost of glow, freshness, and hydration.\n\n</div>"
           }
         },
         "variant_picker": {
@@ -140,7 +140,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Glow naturally, shine confidently",
+            "text": "Glow Now, Pay Less — Limited Time Offer!",
             "text_size": 20,
             "link": ""
           }
@@ -169,7 +169,7 @@
         "heading_PE8tHK": {
           "type": "heading",
           "settings": {
-            "heading": "Brighten Your Natural Glow",
+            "heading": "Instant Glow, Anytime You Need It",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -177,7 +177,7 @@
         "text_RhEwBp": {
           "type": "text",
           "settings": {
-            "text": "<p>Give your skin the care it deserves with a lightweight serum that helps brighten, hydrate, and smooth your complexion for a healthy radiant look.</p><h3></h3>",
+            "text": "<p>Packed with nourishing ingredients, it helps keep your skin soft, plump, and moisturized throughout the day while enhancing your natural beauty with a smooth, dewy finish.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -189,7 +189,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/eqqualberry-vitamin-illuminating-serum-model_1024x1024_80ea291f-e884-4de6-8384-2d2121b2b192.webp",
+        "image": "shopify://shop_images/1777982215_phpbjnq7qcpe1p11NNEd3n.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -248,7 +248,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Healthy skin, beautiful confidence",
+            "text": "Radiant Skin in One Swipe — Grab Yours Today!",
             "text_size": 20,
             "link": ""
           }
@@ -277,7 +277,7 @@
         "heading_ykr6eM": {
           "type": "heading",
           "settings": {
-            "heading": "Hydration & Spot Care in One",
+            "heading": "Deep Hydration & Youthful-Looking Skin",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -331,16 +331,16 @@
             "header_col_1": "Feature",
             "header_col_2": "US",
             "header_col_3": "OTHERS",
-            "row_1_col_1": "Brightens Skin",
+            "row_1_col_1": "Instant Glass-Skin Glow",
             "row_1_col_2": "✅",
             "row_1_col_3": "❌",
-            "row_2_col_1": "Targets Dark Spots",
+            "row_2_col_1": "Collagen-Infused Formula",
             "row_2_col_2": "✅",
             "row_2_col_3": "❌",
-            "row_3_col_1": "Hydrates Skin",
+            "row_3_col_1": "Hydrates & Nourishes",
             "row_3_col_2": "✅",
             "row_3_col_3": "❌",
-            "row_4_col_1": "Non-Greasy Formula",
+            "row_4_col_1": "Works Over Makeup",
             "row_4_col_2": "✅",
             "row_4_col_3": "❌",
             "header_background": "#ffcd8d",
@@ -373,36 +373,29 @@
         "question_kCpxd6": {
           "type": "question",
           "settings": {
-            "title": "How do I use the serum?",
-            "text": "<p>Apply a few drops to clean skin and gently massage until absorbed.</p><p></p>"
+            "title": "What is this balm used for?",
+            "text": "<p><br/> It helps hydrate the skin, boost radiance, and create a healthy glass-skin glow anytime during the day.<br/><br/></p><p></p>"
           }
         },
         "question_43R7MW": {
           "type": "question",
           "settings": {
-            "title": "Can I use it every day?",
-            "text": "<p>Yes, it is suitable for daily use, morning and night.</p><p></p>"
+            "title": "Can I use it over makeup?",
+            "text": "<p><br/>Yes! Its lightweight formula can be applied under or over makeup for an instant fresh and dewy look.<br/><br/></p><p></p>"
           }
         },
         "question_WDimVc": {
           "type": "question",
           "settings": {
-            "title": "Is it suitable for all skin types?",
-            "text": "<p><strong>Is it suitable for all skin types?</strong></p>"
+            "title": "How often can I use it?",
+            "text": "<p><br/>You can use it as often as needed throughout the day whenever your skin needs hydration or a glow boost.<br/><br/></p>"
           }
         },
         "question_bmRtnY": {
           "type": "question",
           "settings": {
-            "title": "Does it help with dark spots?",
-            "text": "<p>Yes, it helps improve uneven skin tone and reduce the appearance of dark spots.</p><p></p>"
-          }
-        },
-        "question_PeYVUX": {
-          "type": "question",
-          "settings": {
-            "title": "Is it greasy or heavy on the skin?",
-            "text": "<p>No, it has a lightweight and non-greasy texture.</p>"
+            "title": "Will it feel greasy on my skin?",
+            "text": "<p>No, the formula is lightweight and absorbs comfortably, leaving a smooth, non-sticky finish.</p><p></p><p></p>"
           }
         }
       },
@@ -410,8 +403,7 @@
         "question_kCpxd6",
         "question_43R7MW",
         "question_WDimVc",
-        "question_bmRtnY",
-        "question_PeYVUX"
+        "question_bmRtnY"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
